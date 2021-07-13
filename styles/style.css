@@ -4,10 +4,14 @@
 /* Common styles or utilities */
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #F3F1FF;
-    width: 1340px;
+    background: #E5E5E5;
+    /* width: 1340px; */
 }
 
+.full-container{
+    width: 1340px;
+    background: #F3F1FF;
+}
 main{
     display: flex;
     flex-direction: column;
